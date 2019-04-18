@@ -5,7 +5,7 @@ import (
 	"bytes"
 	"github.com/datatogether/xmp"
 	unicommon "github.com/unidoc/unidoc/common"
-	unilicense "github.com/unidoc/unidoc/license"
+	unilicense "github.com/unidoc/unidoc/common/license"
 	pdf "github.com/unidoc/unidoc/pdf"
 	"io"
 	"os"
