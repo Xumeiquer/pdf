@@ -6,7 +6,7 @@ import (
 	"github.com/datatogether/xmp"
 	unicommon "github.com/unidoc/unidoc/common"
 	unilicense "github.com/unidoc/unidoc/common/license"
-	pdf "github.com/unidoc/unidoc/pdf"
+	pdf "github.com/unidoc/unidoc/pdf/core"
 	"io"
 	"os"
 )
